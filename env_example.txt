@@ -1,0 +1,5 @@
+# Скопируйте это содержимое в файл .env
+# Замените "your_bot_token_here" на ваш реальный токен от @BotFather
+
+BOT_TOKEN=your_bot_token_here
+
